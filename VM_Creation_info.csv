@@ -1,0 +1,3 @@
+VMName,OSType,Template,vSphereHost,Datastore,AdminFullName,AdminPassword,OrgName,Ipaddress,Subnetmask,PrimaryDNS,SecondaryDNS,Gateway,TimeZone,WorkGroup
+hogehoge,Windows,Template_Win7SP1,10.155.69.4,CNT001,kenji_oshio,your password,Oympus.SWICT,10.155.69.71,255.255.255.0,10.120.3.142,10.155.2.30,10.155.69.254,Tokyo,TESTTEAM
+fugafuga,Windows,Template_Win2K12R2,10.155.69.4,CNT001,Administrator,your password,Oympus.SWICT,10.155.69.72,255.255.255.0,10.120.3.142,10.155.2.30,10.155.69.254,Tokyo,TESTTEAM
